@@ -1,5 +1,9 @@
 # Change Log for Tensile
 
+## Tensile 4.41.1 to ROCm 6.2.4
+### Additions
+- GFX1151 Support
+
 ## Tensile 4.41.0 to ROCm 6.2
 ### Additions
 - new tuning script to summarize rocBLAS log file
